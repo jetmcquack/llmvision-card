@@ -6,6 +6,18 @@ export const it = {
         "noEventsCategory": "Nessun evento trovato per la(les) categoria(e) selezionata(e).",
         "today": "Oggi",
         "yesterday": "Ieri"
+        "january": "gennaio"
+        "february": "febbraio"
+        "march": "marzo"
+        "april": "aprile" 
+        "may": "maggio"
+        "june": "giugno"
+        "july": "luglio"
+        "august": "agosto"
+        "september": "settembre"
+        "october": "ottobre"
+        "november": "novembre"
+        "december": "dicembre"
     },
     "categories": {
         "people": {
