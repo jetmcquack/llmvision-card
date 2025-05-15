@@ -18,6 +18,8 @@ export const it = {
         "october": "ottobre"
         "november": "novembre"
         "december": "dicembre"
+        "event detected": "Evento Rilevato"
+        "motion detected": "Movimento Rilevato"
     },
     "categories": {
         "people": {
